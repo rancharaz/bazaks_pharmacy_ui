@@ -4,8 +4,13 @@ import { RouterView } from 'vue-router'
 
 <template>
   <header>
-    <div class="wrapper"></div>
+    <div class="wrapper">
+      <HelloWorld msg="You did it!" />
+      ss
+    </div>
   </header>
 
   <RouterView />
 </template>
+
+<style scoped></style>

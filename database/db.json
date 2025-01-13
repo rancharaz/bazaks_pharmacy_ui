@@ -1,0 +1,8 @@
+{
+  "existingMedicines": [
+    { "id": 1, "name": "Paracetamol" },
+    { "id": 2, "name": "Vitamin C" },
+    { "id": 3, "name": "Cod Liver Oil" },
+    { "id": 4, "name": "Ashwaghanda" }
+  ]
+}
